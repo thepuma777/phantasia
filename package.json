@@ -14,6 +14,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "stripe": "^12.9.0",
-    "node-fetch": "^2.6.9"  // Für die API-Calls
+    "node-fetch": "^2.6.9"
   }
 }
