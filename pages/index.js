@@ -1,0 +1,1 @@
+// PLACEHOLDER FOR pages/index.js

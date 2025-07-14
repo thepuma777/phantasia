@@ -1,0 +1,1 @@
+// PLACEHOLDER FOR next.config.js
